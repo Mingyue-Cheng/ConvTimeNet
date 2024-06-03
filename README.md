@@ -4,7 +4,7 @@
 
 This is the official open source code for ConvTimenet.
 
-paper link: [ConvTimenet](https://arxiv.org/abs/2403.01493) 
+paper link: [ConvTimeNet: A Deep Hierarchical Fully Convolutional Model for Multivariate Time Series Analysis](https://arxiv.org/abs/2403.01493) 
 
 ## About the ConvTimeNet
 
