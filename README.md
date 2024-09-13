@@ -65,13 +65,11 @@ Our ConvTimeNet achieves the effect of SOTA on time series classification task a
 
 ## Citation
 
+```
 @article{cheng2024convtimenet, 
-
   title={Convtimenet: A deep hierarchical fully convolutional model for multivariate time series analysis}, 
-  
   author={Cheng, Mingyue and Yang, Jiqian and Pan, Tingyue and Liu, Qi and Li, Zhi}, 
-  
   journal={arXiv preprint arXiv:2403.01493}, 
-  
   year={2024} 
 }
+```
