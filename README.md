@@ -1,4 +1,25 @@
-# ConvTimeNet
+<div align="center">
+  <!-- <h1><b> Time-LLM </b></h1> -->
+  <!-- <h2><b> Time-LLM </b></h2> -->
+  <h2><b> Convtimenet: A deep hierarchical fully convolutional model for multivariate time series analysis </b></h2>
+</div>
+
+---
+>
+> 🙋 Please let us know if you find out a mistake or have any suggestions!
+> 
+> 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
+
+```
+@article{cheng2024convtimenet,
+  title={Convtimenet: A deep hierarchical fully convolutional model for multivariate time series analysis},
+  author={Cheng, Mingyue and Yang, Jiqian and Pan, Tingyue and Liu, Qi and Li, Zhi},
+  journal={arXiv preprint arXiv:2403.01493},
+  year={2024}
+}
+```
+
+
 
 ## Project Overview
 
