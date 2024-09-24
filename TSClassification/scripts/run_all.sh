@@ -1,0 +1,10 @@
+bash scripts/AWR.sh
+bash scripts/CR.sh
+bash scripts/CT.sh
+bash scripts/DDG.sh
+bash scripts/EC.sh
+bash scripts/EP.sh
+bash scripts/FM.sh
+bash scripts/JV.sh
+bash scripts/PEMS-SF.sh
+bash scripts/SRS2.sh
