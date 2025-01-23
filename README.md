@@ -1,8 +1,7 @@
 <div align="center">
   <!-- <h1><b> Time-LLM </b></h1> -->
   <!-- <h2><b> Time-LLM </b></h2> -->
-  <h2><b> Convtimenet: A deep hierarchical fully convolutional model
-    for multivariate time series analysis </b></h2>
+  <h2><b> Convtimenet: A deep hierarchical fully convolutional model for multivariate time series analysis (WWW2025) </b></h2>
 </div>
 
 ---
