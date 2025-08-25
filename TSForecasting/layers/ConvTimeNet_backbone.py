@@ -249,6 +249,6 @@ class ConvEncoderLayer(nn.Module):
 		src2 = self.norm_ffn(src2)      
 		src2 = src2.permute(0, 2, 1) if self.norm_tp != 'batch' else src2
 			
-		return src
+		return src2
 
 
