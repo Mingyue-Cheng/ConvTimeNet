@@ -11,11 +11,12 @@
 > 🌟 If you find this resource helpful, please consider to star this repository and cite our research:
 
 ```
-@article{cheng2024convtimenet,
+@inproceedings{cheng2025convtimenet,
   title={Convtimenet: A deep hierarchical fully convolutional model for multivariate time series analysis},
-  author={Cheng, Mingyue and Yang, Jiqian and Pan, Tingyue and Liu, Qi and Li, Zhi},
-  journal={arXiv preprint arXiv:2403.01493},
-  year={2024}
+  author={Cheng, Mingyue and Yang, Jiqian and Pan, Tingyue and Liu, Qi and Li, Zhi and Wang, Shijin},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},
+  pages={171--180},
+  year={2025}
 }
 ```
 
